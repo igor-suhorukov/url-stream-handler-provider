@@ -9,7 +9,7 @@
 
     <groupId>com.github.igor-suhorukov</groupId>
     <artifactId>url-stream-handler-provider</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>1.5</maven.compiler.source>
